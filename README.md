@@ -1,5 +1,5 @@
 ---
-title: AI in the Industry Tutorials (Constraints in ML)
+title: AI in the Industry Tutorials (Machine Learning and Combinatorial Optimization)
 author: michele.lombardi2@unibo.it
 ---
 
